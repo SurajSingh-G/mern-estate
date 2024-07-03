@@ -16,7 +16,6 @@ Trust MERN Estate for your real estate journey, where innovation meets reliabili
 ## Authors
 
 - *Suraj Singh*
-- 
 ## Features
 
 - User authentication 
